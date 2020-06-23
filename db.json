@@ -1,0 +1,19 @@
+{
+ 
+    
+      "players": [
+        {
+          "id": 1,
+          "name": "totti",
+          "team": "as roma"
+        },
+        {
+          "id": 2,
+          "name": "cassano",
+          "team": "as roma"
+        }
+      ]
+     
+    }
+  
+ 
